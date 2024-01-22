@@ -4,10 +4,13 @@
 # pseudocode
 
 # create a function checking whether the value is less tha or greater than 1000
+def product_or_sum (first_integer, second_integer):
 
 # multiply the two integer
+    product = first_integer * second_integer
 
 # add the two integer
+    sum = first_integer + second_integer
 
 # print the product if less than or equal to 1000
 
