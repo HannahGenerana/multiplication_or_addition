@@ -21,5 +21,7 @@ def product_or_sum (first_integer, second_integer):
         print ("The value of the number is", sum)
 
 # first example
+problem_one = product_or_sum (90, 80)
 
 # second example
+problem_two = product_or_sum (30, 10)
