@@ -13,8 +13,12 @@ def product_or_sum (first_integer, second_integer):
     sum = first_integer + second_integer
 
 # print the product if less than or equal to 1000
+    if product <= 1000:
+        print ("The value of the number is", product)
 
 # print the sum if greater than 1000
+    else:
+        print ("The value of the number is", sum)
 
 # first example
 
